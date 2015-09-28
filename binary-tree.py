@@ -91,37 +91,42 @@ class BinaryTree():
 
 
 # main func
-tree = BinaryTree()
+def main():
+    "main function for test"
+    tree = BinaryTree()
 
-print("""
+    print("""
 
-    Binay Tree:
+        Binay Tree:
 
-        Input like: "H", "D", "C", "A", "F", "E"
-        
-                  H
-                 /
-                /
-               D
-             /   \\
-            /     \\
-           C      F
-          /      /
-         /      /
-        A      E
+            Input like: "H", "D", "C", "A", "F", "E"
 
-""")
+                      H
+                     /
+                    /
+                   D
+                 /   \\
+                /     \\
+               C      F
+              /      /
+             /      /
+            A      E
 
-tree.add('H')
-tree.add('D')
-tree.add('C')
-tree.add('A')
-tree.add('F')
-tree.add('E')
+    """)
+
+    tree.add('H')
+    tree.add('D')
+    tree.add('C')
+    tree.add('A')
+    tree.add('F')
+    tree.add('E')
 
 
-tree.traverse()
-print()
-tree.boardtraverse()
+    tree.traverse()
+    print()
+    tree.boardtraverse()
 
-input("\n\nPress Enter to exit.\n")
+    input("\n\nPress Enter to exit.\n")
+
+if __name__ == '__main__':
+    main()
