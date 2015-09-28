@@ -69,9 +69,9 @@ class BinaryTree():
         "pre-order"
         if self is not None:
             print(self, end=' ')
-            if self.__left is not None:
+            if self.__left:
                 self.__left.traverse()
-            if self.__right is not None:
+            if self.__right:
                 self.__right.traverse()
 
     def boardtraverse(self):
@@ -84,9 +84,9 @@ class BinaryTree():
         while queue:
             current = queue.popleft()
             print(current, end=' ')
-            if current.getLeft() is not None:
+            if current.getLeft():
                 queue.append(current.getLeft())
-            if current.getRight() is not None:
+            if current.getRight():
                 queue.append(current.getRight())
 
 
