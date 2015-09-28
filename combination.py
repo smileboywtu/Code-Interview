@@ -23,6 +23,7 @@ def combinationiterator(set, start, end, current, choose):
             # get enough elements to choose
             if end - index >= choose - current:
                 set.append(index + 1)
+                # think why here just use the index + 1 not the start + 1
                 combinationiterator(set.copy(), index+1, end, current+1, choose)
                 set.pop()
 
