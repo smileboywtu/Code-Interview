@@ -17,12 +17,12 @@ The author use the Java code solve the question, Here when you want to run it, y
 
 ## Code Demo
 
-  - Permutation
-  - Combination
-  - Rotate array
-  - Binary Tree
-  - Any property steps to distination
-  - Reverse polish notation
+  - [Permutation](https://github.com/smileboywtu/Code-Interview/blob/master/permutation.py)
+  - [Combination](https://github.com/smileboywtu/Code-Interview/blob/master/combination.py)
+  - [Rotate array](https://github.com/smileboywtu/Code-Interview/blob/master/rotate-array.py)
+  - [Binary Tree](https://github.com/smileboywtu/Code-Interview/blob/master/binary-tree.py)
+  - [Any proper steps to distination](https://github.com/smileboywtu/Code-Interview/blob/master/steps-to-distination.py)
+  - [Reverse polish notation](https://github.com/smileboywtu/Code-Interview/blob/master/evaluate-reverse-polish-notation.py)
 
 # Contact
 + QQ Mail: 294101042@qq.com
