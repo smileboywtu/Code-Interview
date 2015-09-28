@@ -12,17 +12,17 @@ The author use the Java code solve the question, Here when you want to run it, y
 ## Algorithm
 
  + Data Structure [(C/C++)](https://github.com/smileboywtu/C-projects/tree/master/c-datestructure).
- + Algorithm[(Python)](https://github.com/smileboywtu/algorithms-using-python)
+ + Algorithm[(Python)](https://github.com/smileboywtu/algorithms-using-python).
 
 
- ## Code Demo
+## Code Demo
 
   - Permutation
   - Combination
   - Rotate array
   - Binary Tree
   - Any property steps to distination
-  - Reverse polish notation 
+  - Reverse polish notation
 
 # Contact
 + QQ Mail: 294101042@qq.com
