@@ -24,6 +24,7 @@ The author use the Java code solve the question, Here when you want to run it, y
   - [Any proper steps to distination](https://github.com/smileboywtu/Code-Interview/blob/master/steps-to-distination.py)
   - [Reverse polish notation](https://github.com/smileboywtu/Code-Interview/blob/master/evaluate-reverse-polish-notation.py)
   - [Word Ladder](https://github.com/smileboywtu/Code-Interview/blob/master/word-ladder.py)
+  - [Find People From Same Town](https://github.com/smileboywtu/Code-Interview/blob/master/find-people-from-same-town.py)
 
 # Contact
 + QQ Mail: 294101042@qq.com
