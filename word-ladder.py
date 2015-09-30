@@ -46,7 +46,7 @@ def wordladder(start, end, dic):
         step = steps.popleft()
 
         # check if find the end
-        if current == end:
+        if current == end:      # keep care, here use the == not is
             if track > step:
                 track = step
             continue
@@ -58,7 +58,7 @@ def wordladder(start, end, dic):
                 possible = list(current)
                 possible[index] = c
                 word = ''.join(possible)
-                if word in dic or word == end:
+                if word in dic or word == end:  # use == not is
                     words.append(word)
                     steps.append(step + 1)
                 if word in dic:
