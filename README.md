@@ -9,10 +9,14 @@ The author use the Java code solve the question, Here when you want to run it, y
 
 # Code Menu
 
+## Key Conception
+
+  + [C/C++ Main Conceptions](http://c.biancheng.net/cpp/biancheng/cpp/jingyan/list_172_3.html)
+
 ## Algorithm
 
- + Data Structure [(C/C++)](https://github.com/smileboywtu/C-projects/tree/master/c-datestructure).
- + Algorithm[(Python)](https://github.com/smileboywtu/algorithms-using-python).
+  + Data Structure [(C/C++)](https://github.com/smileboywtu/C-projects/tree/master/c-datestructure).
+  + Algorithm[(Python)](https://github.com/smileboywtu/algorithms-using-python).
 
 
 ## Code Demo
