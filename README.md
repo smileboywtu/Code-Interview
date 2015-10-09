@@ -33,6 +33,7 @@ The author use the Java code solve the question, Here when you want to run it, y
   - [Reverse polish notation](https://github.com/smileboywtu/Code-Interview/blob/master/evaluate-reverse-polish-notation.py)
   - [Word Ladder](https://github.com/smileboywtu/Code-Interview/blob/master/word-ladder.py)
   - [Find People From Same Town](https://github.com/smileboywtu/Code-Interview/blob/master/find-people-from-same-town.py)
+  - [Sort Data With Multiple Index](https://github.com/smileboywtu/Code-Interview/blob/master/sort-multi-index.py)
 
 # Contact
 + QQ Mail: 294101042@qq.com
