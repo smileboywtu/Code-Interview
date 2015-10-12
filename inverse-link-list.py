@@ -7,7 +7,7 @@ class Node(object):
         self.next = None
 
     def __str__(self):
-        return string(self.val)
+        return str(self.val)
 
 def buildlist():
     "build the list"
@@ -48,6 +48,13 @@ def inverse(head):
     return head
 
 def main():
+
+    print("""
+
+        Inverse Link List
+
+
+    """)
 
     head = buildlist()
 
