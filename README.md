@@ -29,6 +29,7 @@ The author use the Java code solve the question, Here when you want to run it, y
 - [Find People From Same Town](https://github.com/smileboywtu/Code-Interview/blob/master/find-people-from-same-town.py)
 - [Sort Data With Multiple Index](https://github.com/smileboywtu/Code-Interview/blob/master/sort-multi-index.py)
 - [Inverse Link List](https://github.com/smileboywtu/Code-Interview/blob/master/inverse-link-list.py)
+- [Haffuman Code Tree](https://github.com/smileboywtu/Code-Interview/blob/master/haffuman-code.py)
 
 # Contact
 - QQ Mail: 294101042@qq.com
