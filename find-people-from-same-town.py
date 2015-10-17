@@ -110,7 +110,7 @@ def main():
             Find People From Same Town
 
         N   -- number of people invoved in dialog
-        M   -- number os ship got
+        M   -- number of ship got
 
         if n = 0 and m =0 just quit the program
 
