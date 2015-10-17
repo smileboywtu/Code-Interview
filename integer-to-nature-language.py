@@ -93,8 +93,7 @@ def main():
 
         example:
 
-            123: one hundred and twenty two
-
+            123: one hundred and twenty three 
     """)
 
     val = 123
