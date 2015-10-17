@@ -39,7 +39,7 @@ Code Demo
 -	[Combination](https://github.com/smileboywtu/Code-Interview/blob/master/combination.py)
 -	[Rotate array](https://github.com/smileboywtu/Code-Interview/blob/master/rotate-array.py)
 -	[Binary Tree](https://github.com/smileboywtu/Code-Interview/blob/master/binary-tree.py)
--	[Any proper steps to distination](https://github.com/smileboywtu/Code-Interview/blob/master/steps-to-distination.py)
+-	[Any proper steps to destination](https://github.com/smileboywtu/Code-Interview/blob/master/steps-to-distination.py)
 -	[Reverse polish notation](https://github.com/smileboywtu/Code-Interview/blob/master/evaluate-reverse-polish-notation.py)
 -	[Word Ladder](https://github.com/smileboywtu/Code-Interview/blob/master/word-ladder.py)
 -	[Find People From Same Town](https://github.com/smileboywtu/Code-Interview/blob/master/find-people-from-same-town.py)
