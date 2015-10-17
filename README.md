@@ -46,7 +46,7 @@ Code Demo
 -	[Sort Data With Multiple Index](https://github.com/smileboywtu/Code-Interview/blob/master/sort-multi-index.py)
 -	[Inverse Link List](https://github.com/smileboywtu/Code-Interview/blob/master/inverse-link-list.py)
 -	[Haffuman Code Tree](https://github.com/smileboywtu/Code-Interview/blob/master/haffuman-code.py)
--	[Speak Number](https://github.com/smileboywtu/Code-Interview/blob/master/integer_to_nature_language.py)
+-	[Speak Number](https://github.com/smileboywtu/Code-Interview/blob/master/integer-to-nature-language.py)
 
 Contact
 =======

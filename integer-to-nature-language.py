@@ -25,7 +25,7 @@ def speak_number(numbers, size, base_weight):
                 "million",
                 "billion")
 
-    words = ""
+    piece = ""
     part = 0
     while numbers:
         elem = numbers.pop()
@@ -33,34 +33,34 @@ def speak_number(numbers, size, base_weight):
             if 0 == elem:
                 pass
             else:
-                words += NUMBERS[elem-1] + " " + WEIGHTS[size] + " and "
+                piece += NUMBERS[elem-1] + " " + WEIGHTS[size] + " and "
         elif 2 == size:
             if 0 == elem:
                 pass
             elif 1 == elem:
                 part = elem # use the sub_weight_1
             else:
-                words += WEIGHTS[size][elem-2] + " " # use the sub_weight_2
+                piece += WEIGHTS[size][elem-2] + " " # use the sub_weight_2
         elif 1 == size:
             if part:
-                words += WEIGHTS[part][elem] + " "
+                piece += WEIGHTS[part][elem] + " "
                 part = 0
             else:
                 if 0 == elem:
                     pass
                 else:
-                    words += NUMBERS[elem-1] + " "
+                    piece += NUMBERS[elem-1] + " "
         else:
             pass
         size -= 1
 
     base_weight += 4
     if base_weight >= 6:
-        words += WEIGHTS[6] + " "
+        piece += WEIGHTS[6] + " "
     elif base_weight >= 4:
-        words += WEIGHTS[base_weight] + " "
+        piece += WEIGHTS[base_weight] + " "
 
-    return words
+    return piece
 
 def integer_to_nature_language(val):
 
