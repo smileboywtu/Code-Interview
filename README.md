@@ -50,6 +50,7 @@ Code Demo
 -	[Find Median Of Two Sorted Array](https://github.com/smileboywtu/Code-Interview/blob/master/media-of-two-sorted-array.py)
 -	[Insert Intervals](https://github.com/smileboywtu/Code-Interview/blob/master/insert-interval.py)
 -	[Regular Expression Matching](https://github.com/smileboywtu/Code-Interview/blob/master/regular-expression-match.py)
+-	[Two Sum](https://github.com/smileboywtu/Code-Interview/blob/master/two-sum.py)
 
 Contact
 =======
